@@ -1,7 +1,7 @@
 # Hi there, I'm Haikal 👋
 
 
-## I'm a Developer and Student
+## I'm a Software Engineer and Student
 
 - 🚀 I’m currently working as Backend Developer
 - 🧑‍💻 I’m learning everything on development orbit
