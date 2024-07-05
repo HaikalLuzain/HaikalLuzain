@@ -1,11 +1,11 @@
 # Hi there, I'm Haikal 👋
 
 
-## I'm a Software Engineer and Student
+## I'm a Software Engineer
 
-- 🚀 I’m currently working as Backend Developer
+- 🚀 I’m currently working as a Software Engineer at HireData
 - 🧑‍💻 I’m learning everything on development orbit
-- 🥅 2022 Goals: Mastered at Golang
+- 🥅 I have about 5 years experience
 - ✨ Fun fact: I love to watch anime such as AoT, KnY, OPM, FMA, and Naruto
 
 ### Connect with me:
